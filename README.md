@@ -1,5 +1,7 @@
 # Palash Gupta - Developer Portfolio
 
+Try Here: https://palash287gupta.github.io/portfolio/
+
 A modern, responsive developer portfolio website built with HTML, CSS, and JavaScript. Optimized for GitHub Pages deployment.
 
 ## 🌟 Features
